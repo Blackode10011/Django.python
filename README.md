@@ -1,1 +1,1 @@
-# Django.python
+# the simple tamplate blogg made with rails
